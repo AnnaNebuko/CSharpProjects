@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Info>
+    <Name>Пивааас</Name>
+    <Price>100</Price>
+    <Date>08.02.2021</Date>
+  </Info>
+  <Info>
+    <Name>Gym</Name>
+    <Price>1000</Price>
+    <Date>08.02.2021</Date>
+  </Info>
+  <Info>
+    <Name>Творог</Name>
+    <Price>50</Price>
+    <Date>08.02.2021</Date>
+  </Info>
+  <Info>
+    <Name>Milk</Name>
+    <Price>100</Price>
+    <Date>08.02.2021</Date>
+  </Info>
+  <Info>
+    <Name>Friends</Name>
+    <Price>150</Price>
+    <Date>08.02.2021</Date>
+  </Info>
+</NewDataSet>

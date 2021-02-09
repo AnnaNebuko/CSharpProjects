@@ -1,0 +1,12 @@
+D:\C#\WinForms\SpendingTracker\bin\Debug\SpendingTracker.exe.config
+D:\C#\WinForms\SpendingTracker\bin\Debug\SpendingTracker.exe
+D:\C#\WinForms\SpendingTracker\bin\Debug\SpendingTracker.pdb
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.csprojAssemblyReference.cache
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.FormST.resources
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.Properties.Resources.resources
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.csproj.GenerateResource.cache
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.exe
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.pdb
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.ItemAdd.resources
+D:\C#\WinForms\SpendingTracker\obj\Debug\SpendingTracker.Chart.resources
